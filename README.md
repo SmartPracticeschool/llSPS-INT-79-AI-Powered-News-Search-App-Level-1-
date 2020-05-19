@@ -170,6 +170,12 @@ newsbot: OK searching...
 
 ![slack](doc/source/images/slack-3.png)
 
+## accessing the .json flow
+just copy the url of your nodered flow editor till bluemix.net and paste it in new tab followed by /ui in order to visit the ui you have created
+for example:
+my nodered flow URL:https://node-red-uvcof.eu-gb.mybluemix.net/red/#flow/2e4c6b2.d65fa94
+my UI URL:https://node-red-uvcof.eu-gb.mybluemix.net/ui
+
 ## Add a Trending Topics RSS Feed  ![rss](doc/source/images/rss_feed.png)
 
 On the **Trending News Panel**, click the RSS Feed button to launch a new tab in your browser. Cut and paste the tab URL into your favorite RSS Reader. If your RSS Feed Reader supports push notifications you can get alerted when trending topics change along with a news article for that topic.
